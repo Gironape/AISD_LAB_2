@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\User\source\repos\Sorts\Sorts\sorts.h(14,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Sorts\Sorts\sorts.h(15,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Sorts\Sorts\main.cpp(4,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Sorts.vcxproj -> C:\Users\User\source\repos\Sorts\Debug\Sorts.exe
